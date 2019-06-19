@@ -1,4 +1,4 @@
-package org.sagar.javacase.observable;
+package com.sagar.javacase.observable;
 
 import java.util.ArrayList;
 
