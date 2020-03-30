@@ -1,4 +1,4 @@
-package com.sagar.javabase.singleton;
+package com.sagar.javacase.singleton;
 
 import java.io.Serializable;
 
