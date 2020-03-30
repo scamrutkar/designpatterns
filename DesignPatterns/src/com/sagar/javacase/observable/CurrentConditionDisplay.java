@@ -5,6 +5,7 @@ public class CurrentConditionDisplay implements Observer, DisplayElement{
 	private float temprature;
 	private float humidity;
 	private float pressure;
+	@SuppressWarnings("unused")
 	private Subject weatherData;
 	
 	public CurrentConditionDisplay(Subject weatherData) {
